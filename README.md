@@ -1,6 +1,9 @@
-[Play the Game Online Here](https://replit.com/@ShayyanHusein/Starfox-2D-or-Shayyan-Husein)
+
+
 
 # Starfox-2D-Game
+[Play the Game Online Here](https://replit.com/@ShayyanHusein/Starfox-2D-or-Shayyan-Husein)
+
 All Pixel Sprites created by Shayyan Husein on Piskel 
 
 Licensing to Fox McCloud, Wolf O'Donnell, Landmaster and Arwing belong to Nintendo
@@ -10,7 +13,8 @@ Licensing to Fox McCloud, Wolf O'Donnell, Landmaster and Arwing belong to Ninten
  Help Fox traverse through lands to retrieve the key to his Landmaster! 
  
  Battle enemies, avoid obstacles and help Fox accomplish his mission!
-
+ 
+![](images/starfox_2d_intro.jpg)
 ## Controls
 
      On Land: 
