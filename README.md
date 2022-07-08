@@ -1,3 +1,5 @@
+[Play the Game Online Here](https://replit.com/@ShayyanHusein/Starfox-2D-or-Shayyan-Husein)
+
 # Starfox-2D-Game
 All Pixel Sprites created by Shayyan Husein on Piskel 
 
